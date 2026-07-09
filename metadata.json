@@ -1,0 +1,6 @@
+{
+  "name": "Network Topology Editor",
+  "description": "An interactive, visual network topology editor and simulator inspired by EVE-NG, featuring live device configurations, interactive Cisco-style CLI consoles, and real-time network path tracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
